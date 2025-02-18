@@ -81,3 +81,6 @@ public class Ticket{
         }
 
     }
+
+    // Add a special discount eg. $3 off for visitors coming in groups of 5 or more
+    // offer a free ticket for kids age 3 and below
